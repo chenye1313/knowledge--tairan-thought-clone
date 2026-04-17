@@ -1,0 +1,107 @@
+[
+  {
+    "target": "CoreFoundation.md",
+    "operation_id": "readCoreFoundation",
+    "use_existing_file": false,
+    "sources": [
+      "泰然3.0/01-知识母版/00-泰然知识体系总地图-v1.md",
+      "泰然3.0/01-知识母版/02-总纲母版-v1.md",
+      "泰然3.0/04-子代理研究/01-总论与方法论研究.md"
+    ],
+    "copied": true
+  },
+  {
+    "target": "Glossary.md",
+    "operation_id": "readGlossary",
+    "use_existing_file": false,
+    "source": "泰然3.0/01-知识母版/01-核心术语表-v1.md",
+    "copied": true
+  },
+  {
+    "target": "ExpressionDNA.md",
+    "operation_id": "readExpressionDNA",
+    "use_existing_file": false,
+    "sources": [
+      "泰然3.0/01-知识母版/04-案例与口径母版-v1.md",
+      "泰然3.0/01-知识母版/05-泰然表达DNA与人物故事母版-v1.md"
+    ],
+    "copied": true
+  },
+  {
+    "target": "BiographyAndMission.md",
+    "operation_id": "readBiographyAndMission",
+    "use_existing_file": false,
+    "sources": [
+      "泰然3.0/06-整编审校/03-整编版/00-第0本人物导读书-整编审校版.md",
+      "泰然3.0/04-子代理研究/02-人物源起与发愿研究.md"
+    ],
+    "copied": true
+  },
+  {
+    "target": "Worldview.md",
+    "operation_id": "readWorldview",
+    "use_existing_file": false,
+    "source": "泰然3.0/06-整编审校/03-整编版/01-第一卷泰然体系总论-整编审校版.md",
+    "copied": true
+  },
+  {
+    "target": "PracticeMethods.md",
+    "operation_id": "readPracticeMethods",
+    "use_existing_file": false,
+    "source": "泰然3.0/06-整编审校/03-整编版/02-第二卷三大功课方法论-整编审校版.md",
+    "copied": true
+  },
+  {
+    "target": "Toolkits.md",
+    "operation_id": "readToolkits",
+    "use_existing_file": false,
+    "source": "泰然3.0/06-整编审校/03-整编版/06-工具附录-整编审校版.md",
+    "copied": true
+  },
+  {
+    "target": "PersonalTransformation.md",
+    "operation_id": "readPersonalTransformation",
+    "use_existing_file": false,
+    "source": "泰然3.0/06-整编审校/03-整编版/03-第三卷个人成长与命运转化-整编审校版.md",
+    "copied": true
+  },
+  {
+    "target": "FamilySystem.md",
+    "operation_id": "readFamilySystem",
+    "use_existing_file": false,
+    "source": "泰然3.0/06-整编审校/03-整编版/04-第四卷家庭家族与家文化-整编审校版.md",
+    "copied": true
+  },
+  {
+    "target": "EnvironmentAndNumbers.md",
+    "operation_id": "readEnvironmentAndNumbers",
+    "use_existing_file": false,
+    "sources": [
+      "泰然3.0/06-整编审校/03-整编版/05-第五卷环境科学与数字能量-整编审校版.md",
+      "泰然3.0/04-子代理研究/03-家庭环境号码研究.md"
+    ],
+    "copied": true
+  },
+  {
+    "target": "EvidenceAndBoundaries.md",
+    "operation_id": "readEvidenceAndBoundaries",
+    "use_existing_file": false,
+    "sources": [
+      "泰然3.0/03-来源索引/01-来源分层与可信度规则-v1.md",
+      "泰然3.0/06-整编审校/02-来源核验/00-第0本+第一卷-来源核验报告.md",
+      "泰然3.0/06-整编审校/02-来源核验/02-第二卷-来源核验报告.md",
+      "泰然3.0/06-整编审校/02-来源核验/03-第三卷-来源核验报告.md",
+      "泰然3.0/06-整编审校/02-来源核验/04-第四卷-来源核验报告.md",
+      "泰然3.0/06-整编审校/02-来源核验/05-第五卷+附录-来源核验报告.md",
+      "泰然3.0/06-整编审校/04-质量验收/独立质量审校报告.md"
+    ],
+    "copied": true
+  },
+  {
+    "target": "RoutingPlaybook.md",
+    "operation_id": "readRoutingPlaybook",
+    "use_existing_file": false,
+    "source": "泰然4.0/02-知识库调用地图/01-泰然3.0知识库调用地图-v1.0.md",
+    "copied": true
+  }
+]
